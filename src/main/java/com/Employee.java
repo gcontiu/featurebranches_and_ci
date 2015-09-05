@@ -14,7 +14,6 @@ public class Employee {
     }
 
     public int getAge() {
-	System.out.println("featureAx3");
         return age;
     }
 }
